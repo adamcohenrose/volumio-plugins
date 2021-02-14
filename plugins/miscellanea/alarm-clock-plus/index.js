@@ -70,7 +70,7 @@ AlarmClock.prototype.getUIConfig = function () {
   uiconf.sections[0].content[0].value = config.get('enabled');
 
   // shuffle
-  uiconf.sections[0].content[1].value = config.get('shuffle);
+  uiconf.sections[0].content[1].value = config.get('shuffle');
 
   // hour
   uiconf.sections[0].content[2].value.value = config.get('hour');
