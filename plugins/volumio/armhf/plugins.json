@@ -672,6 +672,23 @@
 						}
 					],
 					"updated": "24-1-2021"
+				},
+				{
+					"icon": "fa-lightbulb-o",
+					"name": "alarm-clock-plus",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/alarm-clock-plus/alarm-clock-plus.zip",
+					"license": "ISC",
+					"description": "Alarm clock plus plugin for Volumio2",
+					"details": "An improved alarm clock with shuffle play and ability to set an alarm to play only on specific days of the week. Day of week code courtesy of SimonMellerin in https://github.com/volumio/Volumio2/pull/1640",
+					"author": "",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "14-2-2021"
 				}
 			]
 		},
